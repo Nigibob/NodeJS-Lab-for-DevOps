@@ -1,0 +1,12 @@
+{
+	“name”: “package”,
+	“description”: “NodeJS Lab01”,
+	“Version”: “1.0.0”,
+	“main”: “index.js”,
+	“script”: { “test”: “echo \”Error: no test specified\” && exit 1” }’
+	“repository”: { “type” : “git”, “url”: “https://github.com/Nigibob/lab1nodejs/package” },
+	“keywords”: [],
+	“author”: “ISC”,
+	“bugs”: { “url”: “https://github.com/Nigibob/lab1nodejs/package/issues” },
+	“homepage”: “https://github.com/Nigibob/lab1nodejs/package”
+}
